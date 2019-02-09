@@ -1,0 +1,8 @@
+{
+  "name": "screen",
+  "version": "0.0.1",
+  "main": "node-main.js",
+  "scripts": {
+    "start": "node ."
+  }
+}
